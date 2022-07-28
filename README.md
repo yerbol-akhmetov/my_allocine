@@ -2,19 +2,16 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+The task is to create a script that perform select operations in the movies.db sql database. 
 
 ## Description
-TODO - How have you solved the problem?
+The problem is solved by line-by-line addition of SQL commands in the script.
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+There is no need to install the project. It can be simply executed or the commands can be run using sqlite code.
 
 ## Usage
-TODO - How does it work?
-```
-./my_project argument1 argument2
-```
+Individual lines of the script can be pasted into sqlite command line. As a result, required set of data is selected.
 
 ### The Core Team
 
